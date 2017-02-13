@@ -12,7 +12,7 @@ while (currentGen <= 4) {
 
   for (currentGen <= 5; currentGen <= totalGen
        
-       // it is extremely important to make sure the <= is pointing the right way, overlooking this mistake cost me 30 minutes of my life as I couldn't figure out why the program wouldn't run//; 
+       // it is extremely important to make sure the <= is pointing the right way, overlooking this mistake cost me 30 minutes //; 
   currentGen++){
     
   totalMW = totalMW + 124;
