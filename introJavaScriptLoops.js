@@ -10,7 +10,7 @@ while (currentGen <= 4) {
   
 }
 
-  for (currentGen <= 5; currentGen >= totalGen ; 
+  for (currentGen <= 5; currentGen <= totalGen ; 
   currentGen++){
     
   totalMW = totalMW + 124;
